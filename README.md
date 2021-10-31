@@ -27,10 +27,10 @@ Users should be able to:
 
 ### Screenshot
 
-- Home Page(.screenshots/screenshot(248).jpg)
-- Destination(Moon)(.screenshots/screenshot(249).jpg)
-- Destination(Mars)(.screenshots/screenshot(250).jpg)
-- Destination(Titan)(.screenshots/screenshot(251).jpg)
+- Home Page(screenshots/screenshot(248).jpg)
+- Destination(Moon)(screenshots/screenshot(249).jpg)
+- Destination(Mars)(screenshots/screenshot(250).jpg)
+- Destination(Titan)(screenshots/screenshot(251).jpg)
 
 ### Links
 
