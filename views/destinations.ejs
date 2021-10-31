@@ -1,0 +1,29 @@
+<%- include('partials/head') %>
+
+    <link rel="stylesheet" href="/css/destinations.css">
+    <p class="pick ff-sans-cond fs-28 text-white"> <b class="text-white"> 01</b> PICK YOUR DESTINATION</p>
+    <section class="panel">
+        <img src="<%= images.png %> " alt="" srcset="">
+        <section class="side-panel">
+        
+            <div class="links">
+                <a href="Moon" class="ff-sans-cond text-white fs-16 letr-sps-27 text-decoration-n">MOON</a>
+                <a href="mars" class="ff-sans-cond text-white fs-16 letr-sps-27 text-decoration-n">MARS</a>
+                <a href="europa" class="ff-sans-cond text-white fs-16 letr-sps-27 text-decoration-n">EUROPA</a>
+                <a href="titan" class="ff-sans-cond text-white fs-16 letr-sps-27 text-decoration-n">TITAN</a>
+            </div>
+            <section class="info">
+                <span class="ff-serif fs-100 text-white"><%= name %> </span>
+                <span class="ff-sans fs-18 text-accent"><%= description %> </span>
+            </section>
+            <div class="line2"></div>
+            <section class="data">
+                <section><span class="ff-sans-cond fs-14 text-accent">AVG. DISTANCE</span > <span class="ff-sans-cond fs-14 text-accent">EST. TRAVEL TIME</span></section>
+                <section><span class="ff-serif fs-28 text-white"><%= distance %> </span> <span class="ff-serif fs-28 text-white"><%= travel %> </span></section>
+            </section>
+        </section>
+    </section>
+    <script src="/css/ani.js"></script>
+    </body>
+
+    </html>
