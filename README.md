@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 - Live Site URL: yet to be published
 ### Screenshots
--![Home page](screenshots\Screenshot (248).png)
+-![Home page](![image](https://user-images.githubusercontent.com/85751002/141418101-666fc512-0f7a-4d10-a696-3052e81fa555.png))
 ## My process
 
 ### Built with
