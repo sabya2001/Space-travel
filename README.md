@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 - Live Site URL: yet to be published
-###Screenshots
+### Screenshots
 -![Home page](screenshots\Screenshot (248).png)
 ## My process
 
