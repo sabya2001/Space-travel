@@ -27,8 +27,9 @@ Users should be able to:
 
 ### Screenshot
 
--![image](https://github.com/sabya2001/Space-travel/blob/main/screenshots/Screenshot%20(248).png?raw=true)
+-![image](https://github.com/sabya2001/Space-travel/blob/main/screenshots/Screenshot%20(271).png?raw=true)
 -![image](https://github.com/sabya2001/Space-travel/blob/main/screenshots/Screenshot%20(272).png?raw=true)
+-![image](https://github.com/sabya2001/Space-travel/blob/main/screenshots/Screenshot%20(275).png?raw=true)
 
 ### Links
 
