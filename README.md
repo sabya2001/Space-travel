@@ -7,6 +7,7 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Links](#links)
+  - [Screeshots](#Screenshots)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
@@ -26,6 +27,8 @@ Users should be able to:
 
 ### Links
 - Live Site URL: yet to be published
+###Screenshots
+-![Home page](screenshots\Screenshot (248).png)
 ## My process
 
 ### Built with
