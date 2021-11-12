@@ -1,16 +1,17 @@
 <%- include('partials/head') %>
 
+
     <link rel="stylesheet" href="/css/destinations.css">
     <p class="pick ff-sans-cond fs-28 text-white"> <b class="text-white"> 01</b> PICK YOUR DESTINATION</p>
     <section class="panel">
-        <img src="<%= images.png %> " alt="" srcset="">
+        <img src="<%= images.png %> " alt="<%= name %> " srcset="">
         <section class="side-panel">
         
             <div class="links">
-                <a href="Moon" class="ff-sans-cond text-white fs-16 letr-sps-27 text-decoration-n">MOON</a>
-                <a href="mars" class="ff-sans-cond text-white fs-16 letr-sps-27 text-decoration-n">MARS</a>
-                <a href="europa" class="ff-sans-cond text-white fs-16 letr-sps-27 text-decoration-n">EUROPA</a>
-                <a href="titan" class="ff-sans-cond text-white fs-16 letr-sps-27 text-decoration-n">TITAN</a>
+                <a href="Moon" id="links1" class="link ff-sans-cond text-white fs-16 letr-sps-27 text-decoration-n">MOON</a>
+                <a href="mars" id="links1" class="hover link ff-sans-cond text-white fs-16 letr-sps-27 text-decoration-n">MARS</a>
+                <a href="europa" id="links1" class="hover link ff-sans-cond text-white fs-16 letr-sps-27 text-decoration-n">EUROPA</a>
+                <a href="titan" id="links1" class="hover link ff-sans-cond text-white fs-16 letr-sps-27 text-decoration-n">TITAN</a>
             </div>
             <section class="info">
                 <span class="ff-serif fs-100 text-white"><%= name %> </span>
@@ -23,7 +24,7 @@
             </section>
         </section>
     </section>
-    <script src="/css/ani.js"></script>
+    <script src="/JS/app.js"></script>
     </body>
 
     </html>

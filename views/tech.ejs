@@ -1,0 +1,22 @@
+<%- include('partials/head') %> 
+<link rel="stylesheet" href="/css/tech.css">
+<p class="meet ff-sans-cond fs-28 text-white"><b class="text-white"> 03</b> SPACE LAUNCH 101</p>
+<main class="main-section">
+    <div class="number-toggle">
+        <a class=" num-btn " href="Launch vehicle"><div class=" fs-32 ff-serif " >1</div></a>
+        <a class="hover num-btn " href="Spaceport"><div class=" fs-32 ff-serif " >2</div></a>
+        <a class="hover num-btn " href="Space capsule"><div class="fs-32 ff-serif " >3</div></a>
+    </div>
+    <div class="main-text">
+        <div class="terminalogy ff-sans-cond fs-16 text-accent text-upper">THE TERMINALOGY... </div>
+        <div class="tech-name ff-serif fs-56 text-white text-upper"><%= name %> </div>
+        <div class="desc ff-sans fs-18 text-accent "><%= description %> </div>
+    </div>
+    <div class="tech-img">
+        <img src="<%= images.portrait %> " alt="space-technology image">
+    </div>
+</main>
+<script src="/JS/app.js"></script>
+</body>
+
+</html>

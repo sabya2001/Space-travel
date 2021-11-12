@@ -1,0 +1,22 @@
+<%- include('partials/head') %> 
+<link rel="stylesheet" href="/css/crew.css">
+
+<p class="meet ff-sans-cond fs-28 text-white"><b class="text-white"> 02</b> MEET YOUR CREW</p>
+<section class="main-area">
+    <div class="page-contents">
+        <div class="designation ff-serif fs-32 text-white text-upper"><%= role %> </div>
+        <div class="name ff-serif fs-56 text-white text-upper"><%= name %> </div>
+        <div class="bio ff-sans fs-18 text-accent "><%= bio %> </div>
+        <div class="toggle-bar">
+            <a class="toggle-button" href="Douglas Hurley"><div  aria-selected="false">slide title1</div></a>
+            <a class="toggle-button" href="Mark Shuttleworth"><div aria-selected="false">slide title2</div></a>
+            <a class="toggle-button" href="Victor Glover"><div aria-selected="false">slide title3</div></a>
+            <a class="toggle-button" href="Anousheh Ansari"><div aria-selected="false" >slide title4</div></a>
+        </div>
+    </div>
+    <img src="<%= images.png %> " alt="<%= name %> ">
+</section>
+<script src="/JS/app.js"></script>
+</body>
+
+ </html>

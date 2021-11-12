@@ -20,16 +20,21 @@ app.get('/d/:des',(req,res)=>{
     }
   }
 })
-app.get('d/c/:des',(req,res)=>{
-  res.redirect(200,'/c/:des')
-})
 app.get('/c/:des',(req,res)=>{
   const des=req.params;
   const val=des.des
   for(let id of data.crew){
     if(val.toLowerCase()===id.name.toLowerCase()){
-      // res.render('destinations.ejs',{...id})
-      console.log(id)
+       res.status(200).render('crew.ejs',{...id})
+    }
+  }
+})
+app.get('/t/:des',(req,res)=>{
+  const des=req.params;
+  const val=des.des
+  for(let id of data.technology){
+    if(val.toLowerCase()===id.name.toLowerCase()){
+       res.status(200).render('tech.ejs',{...id})
     }
   }
 })
