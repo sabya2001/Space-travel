@@ -27,10 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-- Home Page(https://github.com/sabya2001/Space-travel/blob/main/screenshots/Screenshot%20(248).png)
-- Destination(Moon)(screenshots/screenshot(249).jpg)
-- Destination(Mars)(screenshots/screenshot(250).jpg)
-- Destination(Titan)(screenshots/screenshot(251).jpg)
+-![image](https://github.com/sabya2001/Space-travel/blob/main/screenshots/Screenshot%20(248).png?raw=true)
+-![image](https://github.com/sabya2001/Space-travel/blob/main/screenshots/Screenshot%20(272).png?raw=true)
 
 ### Links
 
