@@ -50,6 +50,7 @@ Knowledge I gained from this project are:-
 - Some interactive elements in nav bar.
 - Interactive elements in on all the pages.
 - Styling for mobile devices. 
+- Keyboard functionality
 
 ### Useful resources
 
