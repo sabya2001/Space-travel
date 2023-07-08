@@ -26,7 +26,7 @@ Users should be able to:
 - View each page and be able to toggle between the tabs to see new information
 
 ### Links
-- Live Site URL: yet to be published
+- ![Live Site URL](https://sparkling-blue-gown.cyclic.app/t/Space%20capsule)
 ### Screenshots
 -![image](https://user-images.githubusercontent.com/85751002/141418101-666fc512-0f7a-4d10-a696-3052e81fa555.png)
 ## My process
@@ -43,17 +43,9 @@ Users should be able to:
 
 ### What I learned
 Knowledge I gained from this project are:-
-- Dynamic html templating with ejs
-- Handling backend with node 
-- Running server and hadling http request using express js
-
-### Continued development
-
-- Crew and technologies pages.
-- Some interactive elements in nav bar.
-- Interactive elements in on all the pages.
-- Styling for mobile devices. 
-- Keyboard functionality
+- Dynamic html templating with ejs.
+- Handling backend with node. 
+- Running server and hadling http request using express js.
 
 ### Useful resources
 
@@ -66,4 +58,4 @@ Knowledge I gained from this project are:-
 
 ## Acknowledgments
 
-- Thanks to 8-bit-souvik(https://github.com/8-bit-souvik) for helping me out with errors in request handling in express.
+- Thanks to ![8-bit-souvik](https://github.com/8-bit-souvik) for helping me out with errors in request handling in express.
