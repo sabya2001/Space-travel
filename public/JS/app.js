@@ -8,12 +8,12 @@ for(let i=0;i<btns.length;i++){
 
 }
 //Main nav bar
-let currentLocation1=currentLocation.slice(0,24)
+let currentLocation1=location.pathname.slice(1,2)==""?"/":location.pathname.slice(1,2)
 let mainNav=document.querySelectorAll('#link')
 for(let i=0;i<mainNav.length;i++){
     mainNav[i].classList.remove('underline')
     mainNav[i].classList.add('hover')
-    if (mainNav[i].href.slice(0,24) === currentLocation1) {
+    if (mainNav[i].dataset.navtype === currentLocation1) {
         mainNav[i].classList.add('underline')
         mainNav[i].classList.remove('hover')
 
