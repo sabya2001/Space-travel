@@ -26,7 +26,7 @@ Users should be able to:
 - View each page and be able to toggle between the tabs to see new information
 
 ### Links
-- ![Live Site URL](https://sparkling-blue-gown.cyclic.app/t/Space%20capsule)
+- [Live Site URL](https://sparkling-blue-gown.cyclic.app)
 ### Screenshots
 -![image](https://user-images.githubusercontent.com/85751002/141418101-666fc512-0f7a-4d10-a696-3052e81fa555.png)
 ## My process
@@ -58,4 +58,4 @@ Knowledge I gained from this project are:-
 
 ## Acknowledgments
 
-- Thanks to ![8-bit-souvik](https://github.com/8-bit-souvik) for helping me out with errors in request handling in express.
+- Thanks to [8-bit-souvik](https://github.com/8-bit-souvik) for helping me out with errors in request handling in express.
